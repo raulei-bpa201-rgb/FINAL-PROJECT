@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace JobPortal.Api.Entities
+namespace CareerBridge.Api.Entities
 {
     public class User : IdentityUser
     {
