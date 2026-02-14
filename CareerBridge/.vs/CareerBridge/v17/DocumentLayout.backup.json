@@ -51,15 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CareerBridge",
+              "Title": "CareerBridge.csproj",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\CareerBridge.csproj",
               "RelativeDocumentMoniker": "CareerBridge.csproj",
               "ToolTip": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\CareerBridge.csproj",
               "RelativeToolTip": "CareerBridge.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T08:58:46.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T08:58:46.554Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T09:15:30.762Z",
               "EditorCaption": ""
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T09:14:57.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T09:14:57.97Z"
             },
             {
               "$type": "Document",
