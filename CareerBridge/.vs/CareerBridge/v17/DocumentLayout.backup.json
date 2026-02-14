@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\careerbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFFBF34-B0A2-43D8-9D6D-84113E050359}|CareerBridge.csproj|c:\\users\\narim\\desktop\\final-project\\careerbridge\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Data\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Data\\RoleSeeder.cs",
+              "RelativeToolTip": "Data\\RoleSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:44:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CareerBridge.csproj",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\CareerBridge.csproj",
               "RelativeDocumentMoniker": "CareerBridge.csproj",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20260213092747_raul.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Migrations\\20260213092747_raul.cs",
               "RelativeDocumentMoniker": "Migrations\\20260213092747_raul.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -99,19 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T09:14:57.97Z"
+              "WhenOpened": "2026-02-13T09:14:57.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -123,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CareerBridge.csproj.user",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\CareerBridge.csproj.user",
               "RelativeDocumentMoniker": "CareerBridge.csproj.user",
@@ -135,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -143,19 +161,21 @@
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T15:53:01.798Z"
+              "WhenOpened": "2026-02-11T15:53:01.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\narim\\Desktop\\FINAL-PROJECT\\CareerBridge\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T15:50:04.425Z"
+              "WhenOpened": "2026-02-11T15:50:04.425Z",
+              "EditorCaption": ""
             }
           ]
         }
