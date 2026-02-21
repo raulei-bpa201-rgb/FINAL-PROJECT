@@ -143,10 +143,11 @@ C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebasse
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\CareerBr.960DD085.Up2Date
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\CareerBridge.dll
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\refint\CareerBridge.dll
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\CareerBridge.pdb
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\CareerBridge.genruntimeconfig.cache
 C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\ref\CareerBridge.dll
+C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\narim\Desktop\FINAL-PROJECT\CareerBridge\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

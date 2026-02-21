@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareerBridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee94516fcd8f45a156df4a59f4d76a5146c0426a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9330d5bd392d326181a6d9b91656e11cee66cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareerBridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareerBridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
